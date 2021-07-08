@@ -1,0 +1,25 @@
+
+
+algorithme some
+
+var 
+
+a:array_of integer[20];
+b:array_of integer[20];
+c:integer;
+
+begin
+
+(i=0;i<array;i++)
+
+if (i)==(a) and (i)==(b)
+
+ write  (c)=(a)+(b)
+
+ end
+
+
+
+
+
+
